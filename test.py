@@ -1,3 +1,3 @@
-from sorting import bubble_sort
+from sorting import bubble_sort, selection_sort
 
-bubble_sort([9,7,5,6,3,4,1])
+selection_sort([9,7,5,6,3,4,1])
